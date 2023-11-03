@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rlyremixed&label=Profile%20views&color=0e75b6&style=flat" alt="rlyremixed" /> </p>
 
-- 🔭 I’m currently working on [RoyalMC](https://royalmc.cc/discord) & [Royal Services](https://royaldev.xyz/discord)
+- 🔭 I’m currently working at [Kira Development](https://discord.gg/GcYuR4rHET)
 
 - 🌱 I’m currently learning **Front End Dev & Kotlin**
 
