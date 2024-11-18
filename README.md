@@ -1,14 +1,15 @@
-# Remixed
+# Remixed  
 ---
-**I am an experienced java developer, focusing on minecraft plugin development but creates discord bots using JDA (Java Discord API)**
+**Java Developer | Minecraft Plugins & Discord Bots**  
 
-- 🌟 I am currently a manager at [AstralMC](https://discord.gg/astralmc)
+Passionate about creating immersive experiences through **Minecraft plugin development** and building robust **Discord bots** using **JDA (Java Discord API)**.  
+
+🎮 **Manager at [AstralMC](https://discord.gg/astralmc)**  
+
+---  
+
+## 📬 Get in Touch  
+- **Discord**: `notremixed`  
+- **Email**: `remixeddev@gmail.com`  
 
 ---
-
-## 🔗 Contact Me
-- **Discord**: notremixed
-- **Email**: remixeddev@gmail.com
-
----
-
