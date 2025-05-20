@@ -4,7 +4,7 @@
 
 Passionate about creating immersive experiences through **Minecraft plugin development** and building robust **Discord bots** using **JDA (Java Discord API)**.  
 
-🎮 **Staff at [AstralMC](https://discord.gg/cavepvp)**  
+🎮 **Staff at [CavePvP](https://discord.gg/cavepvp)**  
 
 ---  
 
