@@ -17,17 +17,13 @@ Passionate about creating immersive experiences through **Minecraft plugin devel
 ---
 
 ## ☕ About Me
-```java
-public class Remixed {
-    String name = "remixed_";
-    int age = 17;
-    String timezone = "EST";
-
-    String[] languages = { "Java" };
-    String[] focus = { "Minecraft Plugin Development", "Discord Bots (JDA)" };
-    String[] databases = { "MongoDB", "Redis", "JSON" };
-
-    void build() {
-        System.out.println("Coding plugins & bots with ❤️ using Java & JDA.");
-    }
+```json
+{
+  "name": "remixed_",
+  "age": 17,
+  "languages": ["Java"],
+  "focus": ["Minecraft Plugin Development", "Discord Bots (JDA)"],
+  "databases": ["MongoDB", "Redis", "JSON"]
+  "Timezone": "EST"
 }
+```
